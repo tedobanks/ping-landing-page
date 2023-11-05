@@ -28,7 +28,7 @@ main {
 .logo {
     width: 70px;
     aspect-ratio: 86 / 26;
-    background-image: url(/images/logo.svg);
+    background-image: url(./images/logo.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
