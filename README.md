@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
-- Live Site URL: [Live site URL](https://your-live-site-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-ping-landing-page-UxxxOV9yt0)
+- Live Site URL: [Live site URL](https://tedobanks.github.io/ping-landing-page/)
 
 ## My process
 
